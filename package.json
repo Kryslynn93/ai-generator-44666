@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.71.7",
+    "react-native": "0.74.0",
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
     "@react-native-masked-view/masked-view": "^0.2.9",
